@@ -1,0 +1,3 @@
+[submodule "mintbase"]
+	path = mintbase
+	url = git@github.com:caochun/mintbase.git
